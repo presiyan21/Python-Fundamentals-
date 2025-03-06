@@ -1,100 +1,56 @@
 ![🐍Python_Fundamentals](https://github.com/user-attachments/assets/e949705a-a9a0-49ed-a13b-444da32164c3)
 
-📌 Introduction
+# Python Exercises Repository
+
+## 📌 Introduction
 
 This repository contains a set of Python exercises designed to help learners understand fundamental programming concepts, including data types, loops, conditions, functions, encryption, and even a simple Hangman game. Each exercise focuses on a specific aspect of Python programming, allowing users to practice and improve their coding skills.
 
-📝 Exercises Overview
+## 📝 Exercises Overview
 
-📌 Exercise 2: Python Data Types
+### 📌 Exercise 2: Python Data Types
 
-Creating and printing lists, tuples, dictionaries, sets, and strings.
+- Creating and printing lists, tuples, dictionaries, sets, and strings.
 
-📌 Exercise 3: Conditions
+### 📌 Exercise 3: Conditions
 
-Checking if a number is positive, negative, or zero.
+- Checking if a number is positive, negative, or zero.
+- Determining if a string starts with a vowel or consonant.
+- Comparing two numbers for equality.
 
-Determining if a string starts with a vowel or consonant.
+### 📌 Exercise 4: Loops
 
-Comparing two numbers for equality.
+- Using loops to print numbers, even numbers, and Fibonacci sequences.
 
-📌 Exercise 4: Loops
+### 📌 Exercise 5: Functions
 
-Using loops to print numbers, even numbers, and Fibonacci sequences.
+- Implementing functions for addition, finding the largest number, and counting vowels in a string.
 
-📌 Exercise 5: Functions
+### 📌 Exercise 6: Password Strength Checker
 
-Implementing functions for addition, finding the largest number, and counting vowels in a string.
+- Checking password strength based on length, uppercase, lowercase, and special characters.
 
-📌 Exercise 6: Password Strength Checker
+### 📌 Exercise 7: Caesar Cipher
 
-Checking password strength based on length, uppercase, lowercase, and special characters.
+- Implementing encryption and decryption using the Caesar Cipher technique.
 
-📌 Exercise 7: Caesar Cipher
+### 📌 Exercise 8: Hangman Game
 
-Implementing encryption and decryption using the Caesar Cipher technique.
+- A simple word-guessing game with limited attempts.
 
-📌 Exercise 8: Hangman Game
+## 🚀 Installation and Usage
 
-A simple word-guessing game with limited attempts.
+### ✅ Prerequisites
 
-🚀 Installation and Usage
+- Python 3.x installed on your system.
+- A code editor (e.g., VS Code, PyCharm) or a terminal.
 
-✅ Prerequisites
+### 🔧 Running the Exercises
 
-Python 3.x installed on your system.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repository/python-exercises.git
 
-A code editor (e.g., VS Code, PyCharm) or a terminal.
-
-🔧 Running the Exercises
-
-Clone the repository:
-
-git clone https://github.com/your-repository/python-exercises.git
-
-Navigate to the project directory:
-
-cd python-exercises
-
-Run each exercise individually using Python:
-
-python exercise_2.py  # Replace with the desired exercise file
-
-🤝 Contributing
-
-We welcome contributions! If you would like to improve this project:
-
-Fork the repository.
-
-Create a new branch:
-
-git checkout -b feature-branch
-
-Make your changes and commit them:
-
-git commit -m "Description of changes"
-
-Push to your forked repository:
-
-git push origin feature-branch
-
-Open a Pull Request in the main repository.
-
-📌 Contributor Guidelines
-
-Follow the PEP 8 coding style.
-
-Ensure your code is properly commented and documented.
-
-Add relevant test cases if applicable.
-
-Before submitting a pull request, ensure your code runs without errors.
-
-📜 License
-
-This project is open-source and available under the MIT License.
-
-💡 Happy Coding! 🚀
 
 ![carbon (1)](https://github.com/user-attachments/assets/da1144c3-8d45-4af0-bbe1-3db7efdef961)
 
