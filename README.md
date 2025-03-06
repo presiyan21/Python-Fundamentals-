@@ -45,11 +45,19 @@ This repository contains a set of Python exercises designed to help learners und
 - Python 3.x installed on your system.
 - A code editor (e.g., VS Code, PyCharm) or a terminal.
 
-### 🔧 Running the Exercises
+### 📌 Contributor Guidelines
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repository/python-exercises.git
+- Follow the PEP 8 coding style.
+- Ensure your code is properly commented and documented.
+- Add relevant test cases if applicable.
+- Before submitting a pull request, ensure your code runs without errors.
+
+### 📜 License
+
+This project is open-source and available under the MIT License.
+
+### 💡 Happy Coding! 🚀
+
 
 
 ![carbon (1)](https://github.com/user-attachments/assets/da1144c3-8d45-4af0-bbe1-3db7efdef961)
