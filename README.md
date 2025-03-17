@@ -8,27 +8,27 @@ This repository contains a set of Python exercises designed to help learners und
 
 ## 📝 Exercises Overview
 
-### 📌 Exercise 2: Python Data Types
+### 📌 Exercise 2: Python Data types
 
-- Creating and printing lists, tuples, dictionaries, sets, and strings.
+- Construction (and output) of lists, tuples, dictionaries, sets and strings.
 
 ### 📌 Exercise 3: Conditions
 
-- Checking if a number is positive, negative, or zero.
-- Determining if a string starts with a vowel or consonant.
-- Comparing two numbers for equality.
+-Determining if a number is either positive negative or zero.
+-Check if the string starts with vowel or consonant.
+-Checking two numbers are equal.
 
-### 📌 Exercise 4: Loops
+### 📌  Exercise 4: Loops
 
-- Using loops to print numbers, even numbers, and Fibonacci sequences.
+- Printing the Numbers Using Loops, Even Numbers, and Fibonacci Number.
 
 ### 📌 Exercise 5: Functions
 
-- Implementing functions for addition, finding the largest number, and counting vowels in a string.
+- Writing functions : Add, Find largest number, Vowels in string.
 
 ### 📌 Exercise 6: Password Strength Checker
 
-- Checking password strength based on length, uppercase, lowercase, and special characters.
+- Validating Password having length, uppercase, lowercase and special characters.
 
 ### 📌 Exercise 7: Caesar Cipher
 
@@ -36,21 +36,26 @@ This repository contains a set of Python exercises designed to help learners und
 
 ### 📌 Exercise 8: Hangman Game
 
-- A simple word-guessing game with limited attempts.
+- A basic implementation of a word-guessing game with limited guesses.
 
 ## 🚀 Installation and Usage
 
 ### ✅ Prerequisites
 
-- Python 3.x installed on your system.
-- A code editor (e.g., VS Code, PyCharm) or a terminal.
+Python 3. x installed on your system.
+
+Code editor (VS Code, PyCharm) or terminal
+
 
 ### 📌 Contributor Guidelines
 
-- Follow the PEP 8 coding style.
-- Ensure your code is properly commented and documented.
-- Add relevant test cases if applicable.
-- Before submitting a pull request, ensure your code runs without errors.
+It follows the PEP 8 coding style.
+
+Write good comments and documentation within your code.
+
+If applicable, add appropriate test cases.
+
+Do make sure your code works before submitting a pull request.
 
 ### 📜 License
 
