@@ -47,23 +47,6 @@ Python 3. x installed on your system.
 Code editor (VS Code, PyCharm) or terminal
 
 
-### 📌 Contributor Guidelines
-
-It follows the PEP 8 coding style.
-
-Write good comments and documentation within your code.
-
-If applicable, add appropriate test cases.
-
-Do make sure your code works before submitting a pull request.
-
-### 📜 License
-
-This project is open-source and available under the MIT License.
-
-### 💡 Happy Coding! 🚀
-
-
 
 ![carbon (1)](https://github.com/user-attachments/assets/da1144c3-8d45-4af0-bbe1-3db7efdef961)
 
