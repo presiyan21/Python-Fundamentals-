@@ -4,7 +4,7 @@
 
 ## 📌 Introduction
 
-This repository contains a set of Python exercises designed to help learners understand fundamental programming concepts, including data types, loops, conditions, functions, encryption, and even a simple Hangman game. Each exercise focuses on a specific aspect of Python programming, allowing users to practice and improve their coding skills.
+The following set of Python exercises, consisting of data types, loops, conditions, functions, encryption, and even a simple Hangman game, are featured in this repository to support learners with focusing on fundamental programming skills and basic principles. Participants may improve and develop their coding skills during each activity, which emphasises various elements of Python programming.
 
 ## 📝 Exercises Overview
 
