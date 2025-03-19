@@ -14,11 +14,9 @@ This repository contains a set of Python exercises designed to help learners und
 
 ### 📌 Exercise 3: Conditions
 
--Determining if a number is either positive negative or zero.
-
--Check if the string starts with vowel or consonant.
-
--Checking two numbers are equal.
+- Determining if a number is either positive negative or zero.
+- Check if the string starts with vowel or consonant.
+- Checking two numbers are equal.
 
 ### 📌  Exercise 4: Loops
 
