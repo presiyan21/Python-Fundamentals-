@@ -6,33 +6,33 @@ The following set of Python exercises, consisting of data types, loops, conditio
 
 ## 📝 Exercises Overview
 
-### 📌 Exercise 2: Python Data types
+### 📌 Exercise 1: Python Data types
 
 - Construction (and output) of lists, tuples, dictionaries, sets and strings.
 
-### 📌 Exercise 3: Conditions
+### 📌 Exercise 2: Conditions
 
 - Figuring out if the value is zero, positive, or negative.
 - Find out when the string starts off with a vowel or else a consonant.
 - Testing for the match of two numbers.
 
-### 📌  Exercise 4: Loops
+### 📌  Exercise 3: Loops
 
 - Applying loops, even numbers, and the Fibonacci number
 
-### 📌 Exercise 5: Functions
+### 📌 Exercise 4: Functions
 
 - Writing functions consists of adding, identifying the largest possible number, and the text's vowels.
 
-### 📌 Exercise 6: Password Strength Checker
+### 📌 Exercise 5: Password Strength Checker
 
 - The verification of a password comprised of capital and lowercase letters, special characters, and length characters.
 
-### 📌 Exercise 7: Caesar Cipher
+### 📌 Exercise 6: Caesar Cipher
 
 - Integrating the Caesar Cypher technique to support encryption and decryption.
 
-### 📌 Exercise 8: Hangman Game
+### 📌 Exercise 7: Hangman Game
 
 - A relatively straightforward example of a traditional word-guessing game with just a few possible answers.
 
@@ -46,24 +46,24 @@ The following set of Python exercises, consisting of data types, loops, conditio
 
 ## 🐍 Python Exercises
 
-### 📄 Exercises 1
+### 📄 Exercise 1: Python Data types
 ![carbon (1)](https://github.com/user-attachments/assets/da1144c3-8d45-4af0-bbe1-3db7efdef961)
 
-### 📄 Exercises 2
+### 📄 Exercise 2: Conditions
 ![carbon (2)](https://github.com/user-attachments/assets/586b3ad0-ec35-4103-84f3-1efef94cd72a)
 
-### 📄 Exercises 3
+### 📄 Exercise 3: Loops
 ![carbon (3)](https://github.com/user-attachments/assets/dc5b8b80-9d49-4759-885d-ec5e0ea86b46)
 
-### 📄 Exercises 4
+### 📄 Exercise 4: Functions
 ![carbon (4)](https://github.com/user-attachments/assets/4d127e74-aed4-42cd-8b8f-d144bb31e5f9)
 
-### 📄 Exercises 5
+### 📄 Exercise 5: Password Strength Checker
 ![carbon (5)](https://github.com/user-attachments/assets/a2973fe8-2fb5-45c4-ad29-c46e6f7cfee7)
 
-### 📄 Exercises 6
+### 📄 Exercise 6: Caesar Cipher
 ![carbon (6)](https://github.com/user-attachments/assets/563a9841-0895-48a7-85c5-b9b678681eb3)
 
-### 📄 Exercises 7
+### 📄 Exercise 7: Hangman Game
 ![carbon (7)](https://github.com/user-attachments/assets/398511ac-379e-4bf7-bd16-a8f7d53c6936)
 
