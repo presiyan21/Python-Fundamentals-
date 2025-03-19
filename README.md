@@ -14,29 +14,29 @@ The following set of Python exercises, consisting of data types, loops, conditio
 
 ### 📌 Exercise 3: Conditions
 
-- Determining if a number is either positive negative or zero.
-- Check if the string starts with vowel or consonant.
-- Checking two numbers are equal.
+- Figuring out if the value is zero, positive, or negative.
+- Find out when the string starts off with a vowel or else a consonant.
+- Testing for the match of two numbers.
 
 ### 📌  Exercise 4: Loops
 
-- Printing the Numbers Using Loops, Even Numbers, and Fibonacci Number.
+- Applying loops, even numbers, and the Fibonacci number
 
 ### 📌 Exercise 5: Functions
 
-- Writing functions : Add, Find largest number, Vowels in string.
+- Writing functions consists of adding, identifying the largest possible number, and the text's vowels.
 
 ### 📌 Exercise 6: Password Strength Checker
 
-- Validating Password having length, uppercase, lowercase and special characters.
+- The verification of a password comprised of capital and lowercase letters, special characters, and length characters.
 
 ### 📌 Exercise 7: Caesar Cipher
 
-- Implementing encryption and decryption using the Caesar Cipher technique.
+- Integrating the Caesar Cypher technique to support encryption and decryption.
 
 ### 📌 Exercise 8: Hangman Game
 
-- A basic implementation of a word-guessing game with limited guesses.
+- A relatively straightforward example of a traditional word-guessing game with just a few possible answers.
 
 ## 🚀 Installation and Usage
 
