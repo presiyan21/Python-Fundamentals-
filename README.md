@@ -1,7 +1,5 @@
 ![🐍Python_Fundamentals](https://github.com/user-attachments/assets/e949705a-a9a0-49ed-a13b-444da32164c3)
 
-# Python Exercises Repository
-
 ## 📌 Introduction
 
 The following set of Python exercises, consisting of data types, loops, conditions, functions, encryption, and even a simple Hangman game, are featured in this repository to support learners with focusing on fundamental programming skills and basic principles. Participants may improve and develop their coding skills during each activity, which emphasises various elements of Python programming.
@@ -46,19 +44,26 @@ The following set of Python exercises, consisting of data types, loops, conditio
 
 - Code editor (VS Code, PyCharm) or terminal
 
+## 🐍 Python Exercises
 
-
+### 📄 Exercises 1
 ![carbon (1)](https://github.com/user-attachments/assets/da1144c3-8d45-4af0-bbe1-3db7efdef961)
 
+### 📄 Exercises 2
 ![carbon (2)](https://github.com/user-attachments/assets/586b3ad0-ec35-4103-84f3-1efef94cd72a)
 
+### 📄 Exercises 3
 ![carbon (3)](https://github.com/user-attachments/assets/dc5b8b80-9d49-4759-885d-ec5e0ea86b46)
 
+### 📄 Exercises 4
 ![carbon (4)](https://github.com/user-attachments/assets/4d127e74-aed4-42cd-8b8f-d144bb31e5f9)
 
+### 📄 Exercises 5
 ![carbon (5)](https://github.com/user-attachments/assets/a2973fe8-2fb5-45c4-ad29-c46e6f7cfee7)
 
+### 📄 Exercises 6
 ![carbon (6)](https://github.com/user-attachments/assets/563a9841-0895-48a7-85c5-b9b678681eb3)
 
+### 📄 Exercises 7
 ![carbon (7)](https://github.com/user-attachments/assets/398511ac-379e-4bf7-bd16-a8f7d53c6936)
 
