@@ -42,9 +42,9 @@ This repository contains a set of Python exercises designed to help learners und
 
 ### ✅ Prerequisites
 
-Python 3. x installed on your system.
+- Python 3. x installed on your system.
 
-Code editor (VS Code, PyCharm) or terminal
+- Code editor (VS Code, PyCharm) or terminal
 
 
 
